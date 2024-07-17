@@ -1,0 +1,21 @@
+.link-form {
+    margin-bottom: 20px;
+  }
+  
+  .link-form__input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #d712e5;
+    border-radius: 5px;
+  }
+  
+  .link-form__button {
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: #f00df8;
+    color: rgb(6, 1, 1);
+    border: 2px solid black ;
+    border-radius: 5px;
+    cursor: pointer;
+  }

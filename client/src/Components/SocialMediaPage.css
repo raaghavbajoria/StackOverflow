@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+
+
+
+
+.social-media-page {
+    margin: 20px;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  
+  .social-media-page h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .social-media-page a {
+    display: block;
+    margin-bottom: 5px;
+    color: #2980b9;
+    text-decoration: none;
+  }
+  
+  .social-media-page a:hover {
+    text-decoration: underline;
+  }
+
+
+
+
+
+.txt-heading2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Caprasimo', cursive;
+}
+
+.txt-box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 977px;
+    margin-bottom: 15px;
+    min-width: 90%;
+    padding: 8px 10px 8px 32px;
+    font-size: 13px;
+  
+    border-radius: 3px;
+    border: 3px solid #dd2085;
+}
+
+.btn1{
+  padding: 10px 15px;
+  border-radius: 25px;
+  background-color: #000000;
+  font-size: 14px;
+  color: white;
+  border: none;
+  text-decoration: none;
+  transition: 0.3s;
+  margin-bottom: 20px;
+}
+
+.like-btn{
+  gap: 25px;
+  padding: 10px 15px;
+  border-radius: 25px;
+  background-color: #000000;
+  font-size: 17px;
+  color: white;
+  border: none;
+  text-decoration: none;
+  transition: 0.3s;
+  margin-bottom: 20px;
+}
